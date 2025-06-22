@@ -1,4 +1,4 @@
-# Active-Directory-GPO-Configuration
+# Active-Directory-Configuration
 
 This is a follow-up project for 'Windows 2022 Installation' and it will go over how to install and manage Active Directory. 
 
